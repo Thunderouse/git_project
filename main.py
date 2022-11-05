@@ -1,5 +1,5 @@
 def my_superfunction():
-    print("Больше принтов богу принтов")
+    print("A?")
 
 def main():
     print("Принт 1")
